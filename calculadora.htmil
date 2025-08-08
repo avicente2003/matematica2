@@ -1,1 +1,12 @@
-
+doctype html 
+html lang=pt-br
+had
+had 
+body
+form action=curriculo.php'' method==''post
+fieldset
+<legend>curriculo>/legend>
+<p>nome:<inpunt type=''text''neme=''nome''required></>p></br>
+<p> telefone:<inpunt type=''neme='' telefone'' required></p></br
+<p>email:<inpunptype''email''neme=nome''email''requild></p></br>
+<p> endereço:<inpunp type=''text'' neme=''endereco''requind></p></br>
